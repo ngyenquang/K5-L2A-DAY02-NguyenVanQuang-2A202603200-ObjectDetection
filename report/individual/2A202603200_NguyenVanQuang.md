@@ -7,7 +7,7 @@
 - MSSV: 2A202603200
 - Email: nguyenvanquang30112k4@gmail.com
 - Lớp: 2A-LAB-C304
-- Link repo bài làm: https://github.com/ngyenquang/K5-L2-Day02-NguyenVanQuang-2A202603200-ObjectDetection
+- Link repo bài làm: https://github.com/ngyenquang/K5-L2-DAY02-NguyenVanQuang-2A202603200-ObjectDetection
 - Link Colab đã chạy: https://colab.research.google.com/drive/1YGHyOCbtCOShP9FnXm2wGfEZY-sTv_Uk?usp=sharing
 
 ## 2. Schema và mini guideline
